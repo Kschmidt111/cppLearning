@@ -92,3 +92,8 @@ obj/
 # OneDrive/temporary
 .DS_Store
 .directory
+## Visual Studio artifacts to ignore
+*.vcxproj.filters
+
+# Repository metadata you may not want tracked
+.gitattributes
