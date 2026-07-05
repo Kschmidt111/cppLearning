@@ -6,9 +6,10 @@
 int main() {
 
 
-    std::string teststr{ "test" };
+    std::string_view teststr{ "test" };
 
-    useStrViewer(teststr);
+    //useStrViewer(teststr);
+    nameAndAge();
 
 
     return 0;
